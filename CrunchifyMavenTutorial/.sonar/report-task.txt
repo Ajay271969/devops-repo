@@ -1,0 +1,5 @@
+projectKey=CrunchifyMavenTutorial
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/CrunchifyMavenTutorial
+ceTaskId=AVgGTBDJ8UO8tC2snk17
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVgGTBDJ8UO8tC2snk17
